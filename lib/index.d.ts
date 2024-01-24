@@ -1,2 +1,2 @@
-export declare const add: (a: number, b: number) => number;
+export declare const add: (...nums: number[]) => number;
 //# sourceMappingURL=index.d.ts.map
