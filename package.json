@@ -1,0 +1,17 @@
+{
+  "name": "@dihand79/test-npm-package",
+  "version": "0.0.1",
+  "description": "my first test npm package",
+  "main": "lib",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "dihand79",
+  "license": "ISC"
+}
