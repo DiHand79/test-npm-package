@@ -1,6 +1,6 @@
 {
   "name": "@dihand79/test-npm-package",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "my first test npm package",
   "main": "lib",
   "types": "lib",
